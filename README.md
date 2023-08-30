@@ -2,6 +2,17 @@
 
 Welcome to the Social Media Platform, a MERN-powered application that empowers users to share images and ideas in a dynamic and engaging environment.
 
+
+## Tech Stack
+
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- ![Node.js](https://img.shields.io/badge/-Node.js-green)
+- ![React](https://img.shields.io/badge/-React-blue)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+- ![Express](https://img.shields.io/badge/-Express-black)
+- ![HTML](https://img.shields.io/badge/-HTML-orange)
+- ![CSS](https://img.shields.io/badge/-CSS-blue)
+
 ## Features
 
 ### 1. Login and Authentication
