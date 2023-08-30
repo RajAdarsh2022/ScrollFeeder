@@ -34,6 +34,25 @@ Welcome to the Social Media Platform, a MERN-powered application that empowers u
 4. Set up your environment variables for database configuration and other settings.
 5. Start the application with `npm start`.
 
+
+
+
+## Screenshots
+
+![Login](https://github.com/RajAdarsh2022/ScrollFeeder/blob/master/assets/screenshots/Login-SocialMedia.png)
+*Description: Login Page for ScrollFeeder*
+
+![Home](https://raw.githubusercontent.com/RajAdarsh2022/ScrollFeeder/master/assets/screenshots/Home-SocialMedia.png)
+*Description: Home page showing posts on the left and users on the right*
+
+![Like and Comment](https://raw.githubusercontent.com/RajAdarsh2022/ScrollFeeder/master/assets/screenshots/Comments-SocialMedia.png)
+*Description: Option for commenting and viewing other comments*
+
+![User Profile](https://raw.githubusercontent.com/RajAdarsh2022/ScrollFeeder/master/assets/screenshots/Profile-SocialMedia.png)
+*Description: User profile page displaying details, followers, following and posts.*
+<!-- Add more screenshots as needed -->
+
+
 ## Usage
 
 1. Register a new account or log in using your existing credentials.
@@ -42,6 +61,3 @@ Welcome to the Social Media Platform, a MERN-powered application that empowers u
 4. Create new posts with images, captions, and descriptions.
 5. Explore user profiles to learn more about other users.
 6. Logout and change your password through the user profile.
-
-
-
